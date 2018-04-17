@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelViewController", "ModelViewController\ModelViewController.csproj", "{F1068AFA-4837-4297-9646-DE2C0BF8936F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelViewController.Tests", "ModelViewController.Tests\ModelViewController.Tests.csproj", "{98D36AB3-BF36-4592-92ED-0D4001759451}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1068AFA-4837-4297-9646-DE2C0BF8936F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1068AFA-4837-4297-9646-DE2C0BF8936F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1068AFA-4837-4297-9646-DE2C0BF8936F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1068AFA-4837-4297-9646-DE2C0BF8936F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98D36AB3-BF36-4592-92ED-0D4001759451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98D36AB3-BF36-4592-92ED-0D4001759451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98D36AB3-BF36-4592-92ED-0D4001759451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98D36AB3-BF36-4592-92ED-0D4001759451}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51D34EA7-CB8B-4C2A-9110-CFE7123B9E43}
+	EndGlobalSection
+EndGlobal
